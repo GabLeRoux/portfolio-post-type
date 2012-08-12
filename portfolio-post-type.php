@@ -128,6 +128,10 @@ function portfolioposttype() {
 	
 }
 
+// Enable Translations
+// load_plugin_textdomain( $domain, $abs_rel_path, $plugin_rel_path )
+load_plugin_textdomain('portfolioposttype', false, basename( dirname( __FILE__ ) ) . '/languages' );
+
 add_action( 'init', 'portfolioposttype' );
 
 // Allow thumbnails to be used on portfolio post type

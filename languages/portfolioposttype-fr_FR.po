@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: portfolio-post-type\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-12 11:40-0500\n"
+"PO-Revision-Date: 2012-08-12 11:43-0500\n"
+"Last-Translator: Gabriel Le Breton <lebreton.gabriel@gmail.com>\n"
+"Language-Team: GabLeRoux <lebreton.gabriel@gmail.com>\n"
+"Language: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;_x:2c,1\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../portfolio-post-type.php:32
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../portfolio-post-type.php:33
+msgid "Portfolio Item"
+msgstr "Item porfolio"
+
+#: ../portfolio-post-type.php:34
+msgid "Add New Item"
+msgstr "Ajouter un nouvel item"
+
+#: ../portfolio-post-type.php:35 ../portfolio-post-type.php:37
+msgid "Add New Portfolio Item"
+msgstr "Ajouter Nouvel Item Porfolio"
+
+#: ../portfolio-post-type.php:36
+msgid "Edit Portfolio Item"
+msgstr "Modifier Item Porfolio "
+
+#: ../portfolio-post-type.php:38
+msgid "View Item"
+msgstr "Visionner l'Item"
+
+#: ../portfolio-post-type.php:39
+msgid "Search Portfolio"
+msgstr "Chercher Porfolio"
+
+#: ../portfolio-post-type.php:40
+msgid "No portfolio items found"
+msgstr "Aucun item portfolio trouvé"
+
+#: ../portfolio-post-type.php:41
+msgid "No portfolio items found in trash"
+msgstr "Aucun item portfolio trouvé dans la corbeille"
+
+#: ../portfolio-post-type.php:63 ../portfolio-post-type.php:77
+msgctxt "portfolioposttype"
+msgid "Portfolio Tags"
+msgstr "Tags Portfolio"
+
+#: ../portfolio-post-type.php:64
+msgctxt "portfolioposttype"
+msgid "Portfolio Tag"
+msgstr "Tag Portfolio"
+
+#: ../portfolio-post-type.php:65
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Search Portfolio Tags"
+msgstr "Chercher Tags Porfolio"
+
+#: ../portfolio-post-type.php:66
+msgctxt "portfolioposttype"
+msgid "Popular Portfolio Tags"
+msgstr "Tags Porfolio populaires"
+
+#: ../portfolio-post-type.php:67
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "All Portfolio Tags"
+msgstr "Tous les Tags Portfolio"
+
+#: ../portfolio-post-type.php:68
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Parent Portfolio Tag"
+msgstr "Tag Porfolio Parent:"
+
+#: ../portfolio-post-type.php:69
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Parent Portfolio Tag:"
+msgstr "Tags Porfolio Parents:"
+
+#: ../portfolio-post-type.php:70
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Edit Portfolio Tag"
+msgstr "Modifier Tag Portfolio"
+
+#: ../portfolio-post-type.php:71
+msgctxt "portfolioposttype"
+msgid "Update Portfolio Tag"
+msgstr "Mettre à jour Tag Portfolio"
+
+#: ../portfolio-post-type.php:72
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Add New Portfolio Tag"
+msgstr "Ajouter Nouveau Tag Porfolio"
+
+#: ../portfolio-post-type.php:73
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "New Portfolio Tag Name"
+msgstr "Nouveau Nom de Tag Portfolio"
+
+#: ../portfolio-post-type.php:74
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Separate portfolio tags with commas"
+msgstr "Séparez les tags porfolio par des virgules"
+
+#: ../portfolio-post-type.php:75
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Add or remove portfolio tags"
+msgstr "Ajouter ou supprimer tags portfolio"
+
+#: ../portfolio-post-type.php:76
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Choose from the most used portfolio tags"
+msgstr "Choisissez parmi les tags porfolio les plus utilisés"
+
+#: ../portfolio-post-type.php:99 ../portfolio-post-type.php:113
+msgctxt "portfolioposttype"
+msgid "Portfolio Categories"
+msgstr "Catégories Porfolio"
+
+#: ../portfolio-post-type.php:100
+msgctxt "portfolioposttype"
+msgid "Portfolio Category"
+msgstr "Catégorie Porfolio"
+
+#: ../portfolio-post-type.php:101
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Search Portfolio Categories"
+msgstr "Chercher Catégories Porfolio"
+
+#: ../portfolio-post-type.php:102
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Popular Portfolio Categories"
+msgstr "Catégories Portfolio populaires"
+
+#: ../portfolio-post-type.php:103
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "All Portfolio Categories"
+msgstr "Toutes les Catégories porfolio"
+
+#: ../portfolio-post-type.php:104
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Parent Portfolio Category"
+msgstr "Catégorie Porfolio Parent"
+
+#: ../portfolio-post-type.php:105
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Parent Portfolio Category:"
+msgstr "Catégorie Porfolio Parent:"
+
+#: ../portfolio-post-type.php:106
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Edit Portfolio Category"
+msgstr "Modifier Catégorie Porfolio "
+
+#: ../portfolio-post-type.php:107
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Update Portfolio Category"
+msgstr "Mettre à jour Catégorie Portflio"
+
+#: ../portfolio-post-type.php:108
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Add New Portfolio Category"
+msgstr "Ajouter Nouvelle Catégorie Porfolio"
+
+#: ../portfolio-post-type.php:109
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "New Portfolio Category Name"
+msgstr "Nouveau Nom de Catégorie Portfolio"
+
+#: ../portfolio-post-type.php:110
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Separate portfolio categories with commas"
+msgstr "Séparez les catégories portfolio par des virgules"
+
+#: ../portfolio-post-type.php:111
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Add or remove portfolio categories"
+msgstr "Ajouter ou supprimer catégories portfolio"
+
+#: ../portfolio-post-type.php:112
+#, fuzzy
+msgctxt "portfolioposttype"
+msgid "Choose from the most used portfolio categories"
+msgstr "Choisissez parmi les catégories portfolio les plus utilisés"
+
+#: ../portfolio-post-type.php:149
+msgctxt "column name"
+msgid "Title"
+msgstr "Titre"
+
+#: ../portfolio-post-type.php:150
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: ../portfolio-post-type.php:151
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../portfolio-post-type.php:152
+msgid "Tags"
+msgstr "Tags"
+
+#: ../portfolio-post-type.php:153
+msgid "Author"
+msgstr "Auteur"
+
+#: ../portfolio-post-type.php:154
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../portfolio-post-type.php:155
+msgid "Date"
+msgstr "Date"
+
+#: ../portfolio-post-type.php:182 ../portfolio-post-type.php:192
+#: ../portfolio-post-type.php:202
+msgid "None"
+msgstr "Aucun"
+
+#: ../portfolio-post-type.php:253
+msgid ""
+"The title field and the big Post Editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+
+#: ../portfolio-post-type.php:254
+msgid ""
+"<strong>Title</strong> - Enter a title for your post. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+
+#: ../portfolio-post-type.php:255
+msgid ""
+"<strong>Post editor</strong> - Enter the text for your post. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your post text. You can insert media files by "
+"clicking the icons above the post editor and following the directions. You "
+"can go the distraction-free writing screen, new in 3.2, via the Fullscreen "
+"icon in Visual mode (second to last in the top row) or the Fullscreen button "
+"in HTML mode (last in the row). Once there, you can make buttons visible by "
+"hovering over the top area. Exit Fullscreen back to the regular post editor."
+msgstr ""
+
+#: ../portfolio-post-type.php:256
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your post in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a post or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a post to be published in the future "
+"or backdate a post."
+msgstr ""
+
+#: ../portfolio-post-type.php:257
+msgid ""
+"<strong>Post Format</strong> - This designates how your theme will display a "
+"specific post. For example, you could have a <em>standard</em> blog post "
+"with a title and paragraphs, or a short <em>aside</em> that omits the title "
+"and contains a short text blurb. Please refer to the Codex for <a href="
+"\"http://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions "
+"of each post format</a>. Your theme could enable all or some of 10 possible "
+"formats."
+msgstr ""
+
+#: ../portfolio-post-type.php:258
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your post without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a post thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+
+#: ../portfolio-post-type.php:259
+msgid ""
+"<strong>Send Trackbacks</strong> - Trackbacks are a way to notify legacy "
+"blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to "
+"send trackbacks. If you link to other WordPress sites they&#8217;ll be "
+"notified automatically using pingbacks, and this field is unnecessary."
+msgstr ""
+
+#: ../portfolio-post-type.php:260
+msgid ""
+"<strong>Discussion</strong> - You can turn comments and pings on or off, and "
+"if there are comments on the post, you can see them here and moderate them."
+msgstr ""
+
+#: ../portfolio-post-type.php:261 ../portfolio-post-type.php:281
+msgid "For more information:"
+msgstr "Pour plus d'information:"
+
+#: ../portfolio-post-type.php:262
+msgid ""
+"<a href=\"http://codex.wordpress.org/Posts_Add_New_Screen\" target=\"_blank"
+"\">Documentation on Writing and Editing Posts</a>"
+msgstr ""
+
+#: ../portfolio-post-type.php:263 ../portfolio-post-type.php:283
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: ../portfolio-post-type.php:266
+msgid "You can customize the display of this screen in a number of ways:"
+msgstr ""
+
+#: ../portfolio-post-type.php:268
+msgid ""
+"You can hide/display columns based on your needs and decide how many posts "
+"to list per screen using the Screen Options tab."
+msgstr ""
+
+#: ../portfolio-post-type.php:269
+msgid ""
+"You can filter the list of posts by post status using the text links in the "
+"upper left to show All, Published, Draft, or Trashed posts. The default view "
+"is to show all posts."
+msgstr ""
+
+#: ../portfolio-post-type.php:270
+msgid ""
+"You can view posts in a simple title list or with an excerpt. Choose the "
+"view you prefer by clicking on the icons at the top of the list on the right."
+msgstr ""
+
+#: ../portfolio-post-type.php:271
+msgid ""
+"You can refine the list to show only posts in a specific category or from a "
+"specific month by using the dropdown menus above the posts list. Click the "
+"Filter button after making your selection. You also can refine the list by "
+"clicking on the post author, category or tag in the posts list."
+msgstr ""
+
+#: ../portfolio-post-type.php:273
+msgid ""
+"Hovering over a row in the posts list will display action links that allow "
+"you to manage your post. You can perform the following actions:"
+msgstr ""
+
+#: ../portfolio-post-type.php:275
+msgid ""
+"Edit takes you to the editing screen for that post. You can also reach that "
+"screen by clicking on the post title."
+msgstr ""
+
+#: ../portfolio-post-type.php:276
+msgid ""
+"Quick Edit provides inline access to the metadata of your post, allowing you "
+"to update post details without leaving this screen."
+msgstr ""
+
+#: ../portfolio-post-type.php:277
+msgid ""
+"Trash removes your post from this list and places it in the trash, from "
+"which you can permanently delete it."
+msgstr ""
+
+#: ../portfolio-post-type.php:278
+msgid ""
+"Preview will show you what your draft post will look like if you publish it. "
+"View will take you to your live site to view the post. Which link is "
+"available depends on your post&#8217;s status."
+msgstr ""
+
+#: ../portfolio-post-type.php:280
+msgid ""
+"You can also edit multiple posts at once. Select the posts you want to edit "
+"using the checkboxes, select Edit from the Bulk Actions menu and click "
+"Apply. You will be able to change the metadata (categories, author, etc.) "
+"for all selected posts at once. To remove a post from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+
+#: ../portfolio-post-type.php:282
+msgid ""
+"<a href=\"http://codex.wordpress.org/Posts_Screen\" target=\"_blank"
+"\">Documentation on Managing Posts</a>"
+msgstr ""
